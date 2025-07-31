@@ -8,7 +8,7 @@ Currently expanding my skills in Software Development and Testing with a focus o
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hugo-cosme-0b94838a/](https://www.linkedin.com/in/hugo-cosme-0b94838a/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugo-cosme-0b94838a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugocr(@)msn.com)
 
 ---
